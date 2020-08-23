@@ -1,4 +1,5 @@
-SQL statement execution order
+# SQL statement execution order
+
 Usually the execution order is
 1. FROM and JOIN
 2. WHERE
