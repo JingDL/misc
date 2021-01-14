@@ -28,7 +28,8 @@ EAP — extensible authentication protocol (802.1x/EAP)
   3. Authentication server usually relies on a backend database (Microsoft Active Directory, Cisco ISE, or LDAP server) for maintaining usernames and passwords
 ```
 
-EAPoL (EAP over LAN), protocol used between Supplicant and Authenticator
+EAPoL (EAP over LAN), protocol used between Supplicant and Authenticator.
+
 RADIUS (Remote Authentication Dial-in User Service), protocol used between Authenticator and Authentication server.
 ```
 Supplicant — EAPoL— Authenticator — RADIUS — Authentication server
